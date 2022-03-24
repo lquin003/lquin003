@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Quintanilla
 - 👀 I’m interested in single cell genomics in the brain used to understand neurodegernative diseases.
-- 🌱 I’m currently learning effective ways to analyze single cell data across different modalities.
+- 🌱 I’m currently learning effective ways to analyze single cell data across different modalities and finishing up my Ph.D. at the University of North Carolina at Chapel Hill.
 - 💞️ I’m looking to collaborate on anything interesting pertaining to the brain.
 - 📫 How to reach me lquin003@email.unc.edu
 

@@ -11,7 +11,7 @@
 ---
 ### :man_technologist: About Me :
 - 👋 Hi, I’m Luis Quintanilla
-- 👀 I’m interested in applying novel single cell approaches to further our understanding of different diseases affect the human body. 
+- 👀 I’m interested in applying novel single cell approaches to further our understanding of how different diseases affect the human body. 
 - 🌱 I’m currently learning effective ways to analyze single cell data across different modalities. I recently started a new position in industry. I obatined my Ph.D. in Neuroscience from the University of North Carolina at Chapel Hill.
 - 💞️ I’m looking to collaborate on anything interesting pertaining to the brain.
 - 📫 How to reach me lquin003@email.unc.edu or 01luisquintanilla@gmail.com

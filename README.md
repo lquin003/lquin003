@@ -1,3 +1,5 @@
+---
+### :man_technologist: About Me :
 - 👋 Hi, I’m Luis Quintanilla
 - 👀 I’m interested in single cell genomics in the brain to understand neurodegernative diseases.
 - 🌱 I’m currently learning effective ways to analyze single cell data across different modalities. I recently started a new position in industry. I obatined my Ph.D. in Neuroscience from the University of North Carolina at Chapel Hill.
